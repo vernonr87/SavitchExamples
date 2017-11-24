@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-
+//Determines taxed amount based on net income amount.
 int main()
 {
 	int incomeRange;
